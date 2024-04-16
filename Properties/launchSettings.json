@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DatabaseSQLMusicApp": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "CONNECTION_STRING": ""
+      }
+    }
+  }
+}
